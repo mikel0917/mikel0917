@@ -2,7 +2,7 @@
 
 **Backend Engineer · Automation Builder · AI Systems**
 
-I build automated systems that actually run in production — lead gen pipelines, arbitrage bots, AI-powered web scraping tools, and SaaS MVPs. Currently finishing my A.S. in Computer Science and actively looking for a tech internship (open to Japan 🇯🇵).
+I build automated systems that actually run in production — lead gen pipelines, arbitrage bots, AI-powered web scraping tools, and SaaS MVPs. Currently finishing my A.S. in Computer Science and actively looking for a tech internship
 
 ---
 
@@ -59,10 +59,9 @@ Scraping    →  Scrape.do, BeautifulSoup, custom parsers
 
 ## 📫 Reach Me
 
-- 📧 mikeldeyo@email.com
+- 📧 mikel3037@outlook.com
 - 🌐 [weblaunchmd.com](https://weblaunchmd.com)
-- 💼 Open to internships — especially in Japan 🇯🇵
-
+- 💼 Open to internships 
 ---
 
-*"I don't just learn tools — I ship things with them."*
+
